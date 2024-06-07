@@ -1,5 +1,6 @@
 # Cell-Segmentation-Using-Yolo-v8-and-Azure
 
+This repository contains the code and workflows for a cell segmentation project utilizing YOLO v8 and Azure services. The project is structured to handle data ingestion, validation, model training, and deployment using Docker and GitHub Actions for CI/CD.
 
 ## Workflows
 
