@@ -78,4 +78,7 @@ docker push cellseg.azurecr.io/cell:latest
 1. Build the Docker image of the Source Code
 2. Push the Docker image to Container Registry
 3. Launch the Web App Server in Azure 
-4. Pull the Docker image from the container registry to Web App server and run 
+4. Pull the Docker image from the container registry to Web App server and run
+
+# Impact:
+Accurate cell segmentation plays a pivotal role in medical diagnostics and research, enabling early detection and treatment of diseases. Leveraging AI in the medical sector significantly enhances the precision and efficiency of healthcare solutions, ultimately leading to better patient outcomes and saving lives.
